@@ -1,0 +1,36 @@
+[33mcommit 6f47d3d402ca31c24acf3bb1055335987a0fe7f9[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 5564fbc 11f446f
+Author: CXY <simonmonic@163.com>
+Date:   Sat Jan 4 19:33:07 2020 +0800
+
+    fix conflict
+
+[33mcommit 5564fbc6cc780dbfc367decc8586a770b3355ea2[m
+Author: CXY <simonmonic@163.com>
+Date:   Sat Jan 4 19:26:04 2020 +0800
+
+    i commit
+
+[33mcommit 11f446fc7e2364312ce7e138b61ba2f5e6a54a6a[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: CXY <simonmonic@163.com>
+Date:   Sat Jan 4 17:01:36 2020 +0800
+
+    other commit
+
+[33mcommit 8199e7bf6df240315cd4b9c2144a9252cda41d5a[m
+Author: CXY <simonmonic@163.com>
+Date:   Sat Jan 4 16:39:05 2020 +0800
+
+    other commit
+
+[33mcommit 5eab681a9ca17e6b1341462345bbba35cf816598[m
+Author: CXY <simonmonic@163.com>
+Date:   Sat Jan 4 11:34:58 2020 +0800
+
+    first commit
+
+[33mcommit 4f1898272e802b8b6c59eb21eaa44b7d085e9414[m
+Author: Simzangfo <56241876+Simzangfo@users.noreply.github.com>
+Date:   Fri Dec 20 22:34:21 2019 +0800
+
+    Initial commit
